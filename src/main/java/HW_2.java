@@ -1,9 +1,4 @@
 
-/*
-
-7. **Сравнить время выполнения пунка 6 со строкой содержащей 10000 символов "=" средствами String и StringBuilder.
- */
-
 import java.util.Arrays;
 import java.util.StringJoiner;
 
